@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\ACER\Desktop\tri\LTHDT\Project_Crossing_Game\final\Source Code\Road-to-Olympia\Game.cpp(56,15): warning C4101: 'Console_G': unreferenced local variable
+  Road-to-Olympia.vcxproj -> C:\Users\ACER\Desktop\tri\LTHDT\Project_Crossing_Game\final\Source Code\x64\Debug\Road-to-Olympia.exe
